@@ -4,7 +4,7 @@
 | :-----: | ----------------------------------------------------------------------------------------------------------------------------------------------- | :---: |
 |    0    | [Modern Embedded Systems Programming: Getting Started](https://www.youtube.com/watch?v=hnj-7XwTYRI)                                             |       |
 |    1    | [How computers count?](https://www.youtube.com/watch?v=gQOv8o5lS2k)                                                                             |   [EP-01](https://github.com/randytylor69/Embedded-Systems-Roadmap/blob/main/Notes/ep-01.md)    |
-|    2    | [How to change the flow of control through your code](https://www.youtube.com/watch?v=hB8qfX_D-vY)                                              |       |
+|    2    | [How to change the flow of control through your code](https://www.youtube.com/watch?v=cZj284kfuE8)                                              |       |
 |    3    | [Variables and Pointers](https://www.youtube.com/watch?v=3V9eqbfSIg0)                                                                           |       |
 |    4    | [How to control the world outside?](https://www.youtube.com/watch?v=1Kjh0CAgnl4)                                                                |       |
 |    5    | [Preprocessor and the "volatile" keyword in C](https://www.youtube.com/watch?v=5MzilJ2-MGY)                                                     |       |
