@@ -1,5 +1,5 @@
 [Course Repo](https://github.com/QuantumLeaps/modern-embedded-programming-course)
-
+[YouTube Playlist](https://www.youtube.com/playlist?list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM)
 | Episode | Title | Notes |
 | :-----: | ----------------------------------------------------------------------------------------------------------------------------------------------- | :---: |
 | 0 | [Modern Embedded Systems Programming: Getting Started](https://www.youtube.com/watch?v=hnj-7XwTYRI) | |
