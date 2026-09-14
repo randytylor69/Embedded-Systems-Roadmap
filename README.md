@@ -8,8 +8,8 @@
 | 1 | [How computers count?](https://www.youtube.com/watch?v=gQOv8o5lS2k) | [EP-01](https://github.com/randytylor69/Embedded-Systems-Roadmap/blob/main/Notes/ep-01.md) |
 | 2 | [How to change the flow of control through your code](https://www.youtube.com/watch?v=cZj284kfuE8) | |
 | 3 | Variables and Pointers | |
-| 4 | How to control the world outside? | This episode makes the board blink (`Hello World` of embedded systems!), but in a primitive manner. |
-| 5 | Preprocessor and the "volatile" keyword in C | |
+| 4 | How to control the world outside? |  [Notes](https://github.com/randytylor69/Embedded-Systems-Roadmap/blob/main/Notes/ep-04.md). This episode makes the board blink (`Hello World` of embedded systems!), but in a primitive manner. |
+| 5 | Preprocessor and the "volatile" keyword in C | [Notes](https://github.com/randytylor69/Embedded-Systems-Roadmap/blob/main/Notes/ep-05.md). |
 | 6 | Bit-wise operators in C | |
 | 7 | Arrays and Pointer Arithmetic | |
 | 8 | Functions in C and the call stack | |
