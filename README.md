@@ -10,8 +10,8 @@
 | 3 | Variables and Pointers | |
 | 4 | How to control the world outside? |  [Notes](https://github.com/randytylor69/Embedded-Systems-Roadmap/blob/main/Notes/ep-04.md). This episode makes the board blink (`Hello World` of embedded systems!), but in a primitive manner. |
 | 5 | Preprocessor and the "volatile" keyword in C | [Notes](https://github.com/randytylor69/Embedded-Systems-Roadmap/blob/main/Notes/ep-05.md). |
-| 6 | Bit-wise operators in C | |
-| 7 | Arrays and Pointer Arithmetic | |
+| 6 | Bit-wise operators in C |[Notes](https://github.com/randytylor69/Embedded-Systems-Roadmap/blob/main/Notes/ep-06.md). |
+| 7 | Arrays and Pointer Arithmetic | [Notes](https://github.com/randytylor69/Embedded-Systems-Roadmap/blob/main/Notes/ep-07.md). |
 | 8 | Functions in C and the call stack | |
 | 9 | Modules, Recursion, ARM Application Procedure Call Standard (AAPCS) | |
 | 10 | Stack Overflow and Other Pitfalls of Functions | |
