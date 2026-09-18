@@ -16,7 +16,7 @@
 | 9 | Modules, Recursion, ARM Application Procedure Call Standard (AAPCS) | |
 | 10 | Stack Overflow and Other Pitfalls of Functions | |
 | 11 | Standard integers (stdint.h) and mixing integer types | |
-| 12 | Structures in C and Cortex Microcontroller Software Interface Standard (CMSIS) | |
+| 12 | Structures in C and Cortex Microcontroller Software Interface Standard (CMSIS) | [Notes](https://github.com/randytylor69/Embedded-Systems-Roadmap/blob/main/Notes/ep-12.md).  |
 | 13 | Startup Code Part-1: What is startup code and how the CPU gets from reset to main? | |
 | 14 | Startup Code Part-2: Replacing the vector-table, embedded software build process | |
 | 15 | Startup Code Part-3: Vector table initialization, exception handlers, interrupt handlers | |
