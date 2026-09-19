@@ -20,7 +20,7 @@
 | 13 | Startup Code Part-1: What is startup code and how the CPU gets from reset to main? | |
 | 14 | Startup Code Part-2: Replacing the vector-table, embedded software build process | |
 | 15 | Startup Code Part-3: Vector table initialization, exception handlers, interrupt handlers | |
-| 16 | Interrupts Part-1: What are interrupts, and how they work | |
+| 16 | Interrupts Part-1: What are interrupts, and how they work |[Notes](https://github.com/randytylor69/Embedded-Systems-Roadmap/blob/main/Notes/ep-16.md).  | |
 | 17 | interrupts Part-2: How most CPUs (e.g. MSP430) handle interrupts? | |
 | 18 | interrupts Part-3: How interrupts work on ARM Cortex-M? | |
 | 19 | GNU-ARM Toolchain and Eclipse IDE | |
