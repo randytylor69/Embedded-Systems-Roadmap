@@ -1,3 +1,5 @@
+[Glossory](https://github.com/randytylor69/Embedded-Systems-Roadmap/blob/main/Notes/Glossory.md)
+
 [Course Repo](https://github.com/QuantumLeaps/modern-embedded-programming-course)
 
 [YouTube Playlist](https://www.youtube.com/playlist?list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM)
